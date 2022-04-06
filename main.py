@@ -1,3 +1,6 @@
+# Written mostly with help from Github Copilot.
+# I love this feature.
+
 # This is the main file for the advent of code, 2021.
 # It runs all code from other days, which are in separate files.
 # It will only run one day at a time.
